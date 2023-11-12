@@ -1,6 +1,6 @@
 # sample-native-php
 
-I've dockerized this sample app because my localhost wont let me run Apache and Mysql using XAMPP anymore...
+I've dockerized this sample app because my localhost wont let me run Apache and Mysql using XAMPP...
 
 # To run, you must have docker installed
 
